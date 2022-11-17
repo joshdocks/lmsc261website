@@ -11,3 +11,11 @@ h1, h2, h3, h4 {
     background-color: #cccccc;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#center {
+    text-align: center;
+}
+
+p {
+    background-color: #cccccc;
+}
