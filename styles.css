@@ -2,3 +2,7 @@ body {
     background-image: url("washmachine.jpeg")
     font-family: Arial, Helvetica, sans-serif
 }
+
+h1, h2, h3, h4 {
+    text-align: center
+}
